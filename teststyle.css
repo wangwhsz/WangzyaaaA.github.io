@@ -1,0 +1,12 @@
+.asd{
+    font-size: 4rem;
+    top: calc(30% - 2rem);
+    position:absolute;
+    text-align: center;
+    width: 100%;
+    line-height: 4rem;
+}
+.div1{
+    height: 500px;
+    align-items: center;
+}
