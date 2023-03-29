@@ -1,5 +1,6 @@
 lsi: false
 safe: true
+theme :Dinky
 source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
@@ -8,4 +9,4 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
- theme :Dinky
+
